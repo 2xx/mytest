@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/uploads/(.*)",
-      "destination": "http://106.75.9.111:1337/"
+      "destination": "http://106.75.9.111:1337/uploads/hsw_26f0157e39.jpg"
     }
   ]
 }
