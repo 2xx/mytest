@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "https://106.75.9.111:1337/uploads/(.*)",
-      "destination": "http://106.75.9.111:1337/uploads/"
+      "source": "/uploads/(.*)",
+      "destination": "http://106.75.9.111:1337/"
     }
   ]
 }
